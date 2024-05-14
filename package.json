@@ -1,9 +1,9 @@
 {
-  "name": "use-drag-scroll",
-  "version": "1.0.1",
+  "name": "@operandio/use-drag-scroll",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "repository": "https://github.com/mildrenben/useDragScroll.git",
-  "author": "Benjamin Mildren <mildrenben@gmail.com>",
+  "author": "BinhQ <binh@operandio.com>",
   "license": "MIT",
   "files": [
     "dist"
@@ -13,7 +13,7 @@
     "start": "rollup -c -w"
   },
   "peerDependencies": {
-    "react": "^16.8"
+    "react": "^16.0.0 || ^17.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
