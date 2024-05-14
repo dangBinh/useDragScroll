@@ -1,9 +1,9 @@
 {
   "name": "@binhqd777/use-drag-scroll",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "repository": "https://github.com/dangBinh/useDragScroll",
-  "author": "BinhQ <binh@operandio.com>",
+  "author": "BinhQD <binh@operandio.com>",
   "license": "MIT",
   "files": [
     "dist"
